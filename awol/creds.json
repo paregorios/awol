@@ -1,0 +1,14 @@
+{
+	"libraryType":"group",
+	"libraryID":"241861",
+	"librarySlug":"<null>",
+	"apiKey":"aZ2duHTVMnuJIeTGpk48K4Gv",
+	"tumblrToAddr":"ua3au4a6@tumblr.com",
+	"tumblrFromAddr":"tom.elliott@nyu.edu",
+	"userAgent":"ParegoricReadingBot/1.0 +http://www.paregorios.org/",
+	"prevLibraryVersion":"6478",
+	"collectionID":"V9VA7HTP",
+	"debugCCAddr":"paregorios@hotmail.com",
+	"smtpServer":"smtp.gmail.com:587",
+	"smtpUser":"te20@nyu.edu"
+}
